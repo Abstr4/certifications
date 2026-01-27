@@ -2,7 +2,7 @@
 
 The certificates uploaded here states a little part of the knowledge I've gathered throughout my learning journey.
 
-I'll list them as Issuer Entity > \[Subject - End date] \[link if available] to make it more readable:
+I'll list them as \[Issuer entity] > \[Subject - End date] \[link if available] to make it more readable:
 
 ## Telecom & EducacionIT
 * .Net Developer - 11/2022 [LinkedIn post (issuer's web page not available)](https://www.linkedin.com/feed/update/urn:li:activity:7103577011796815872/)
