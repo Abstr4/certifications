@@ -14,10 +14,10 @@ I'll list them as \[Issuer entity] > \[Subject - End date] \[link if available] 
 
 ## FreeCodeCamp
 * Foundational C# with Microsoft - 10/2023 [FCC](https://www.freecodecamp.org/certification/abstr4/foundational-c-sharp-with-microsoft)
-* Responsive Web Design - 03/2023 [FCC](https://www.freecodecamp.org/certification/abstr4/responsive-web-design)
 * JavaScript Algorithms and Data Structures - 01/2023 [FCC](https://www.freecodecamp.org/certification/abstr4/javascript-algorithms-and-data-structures)
+* Responsive Web Design - 11/2022 [FCC](https://www.freecodecamp.org/certification/abstr4/responsive-web-design)
 
 ## Telecom & EducacionIT
-* .Net Developer - 11/2022 [LinkedIn post (issuer's web page not available)](https://www.linkedin.com/feed/update/urn:li:activity:7103577011796815872/)
+* .Net Developer - 05/2022 to 11/2022 (130 hours online course with instructor) [LinkedIn post (issuer's web page not available)](https://www.linkedin.com/feed/update/urn:li:activity:7103577011796815872/)
 
 
