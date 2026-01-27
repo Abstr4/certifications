@@ -18,6 +18,6 @@ I'll list them as Issuer Entity > \[Subject - End date] \[link if available] to 
 * Unit Testing .NET 9 with xUnit v3 [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
 
 ## SCRUM Study
-* SCRUM Fundamentals Certified (SFC) [srum study](https://www.scrumstudy.com/certification/verify?type=SFC&number=998195)
+* SCRUM Fundamentals Certified (SFC) [scrumstudy](https://www.scrumstudy.com/certification/verify?type=SFC&number=998195)
 
 
