@@ -10,7 +10,7 @@ I'll list them as \[Issuer entity] > \[Subject - End date] \[link if available] 
 ## Udemy
 * Unit Testing .NET 9 with xUnit v3 - 09/2025 [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
 * Master Blazor Server and WASM (.NET 8 and 9) - 05/2025  [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
-* Master in ASP .NET Core Web API (.NET 8 and 9) - 12/2024 [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
+* Master in ASP .NET Core Web API RESTful (.NET 8 and 9) - 12/2024 [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
 
 ## SCRUM Study
 * SCRUM Fundamentals Certified (SFC) - 09/2023 [scrumstudy](https://www.scrumstudy.com/certification/verify?type=SFC&number=998195)
