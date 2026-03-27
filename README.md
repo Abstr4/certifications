@@ -4,6 +4,9 @@ The certificates uploaded here states a little part of the knowledge I've gather
 
 I'll list them as \[Issuer entity] > \[Subject - End date] \[link if available] to make it more readable:
 
+## Big School
+* Introduction to AI-assisted Development - 03/2026 [Bigschool](https://certificados.thebigschool.com/wp-content/uploads/certs/MDEV2/Certificado-Matias-Margaritini-g0y9o836.pdf)
+  
 ## Udemy
 * Unit Testing .NET 9 with xUnit v3 - 09/2025 [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
 * Master Blazor Server and WASM (.NET 8 and 9) - 05/2025  [Udemy](https://www.udemy.com/certificate/UC-e7d99bd7-32e8-4e04-af4c-a32ab3917d88/)
