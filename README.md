@@ -23,4 +23,7 @@ I'll list them as \[Issuer entity] > \[Subject - End date] \[link if available] 
 ## Telecom & EducacionIT
 * .Net Developer - 05/2022 to 11/2022 (130 hours online course with instructor) [LinkedIn post (issuer's web page not available)](https://www.linkedin.com/feed/update/urn:li:activity:7103577011796815872/)
 
+## Centro de Idiomas Córdoba
+* Portuguese - First Level - 09/2024 [campuscordoba.com.ar](https://campuscordoba.cba.gov.ar/#page-certificate/?code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NjcwNDkyfQ.iEgZNY2uXxVfrpcuAXUrhMNBqw-PqzAcOFm_vsR9NkQ)
+
 
